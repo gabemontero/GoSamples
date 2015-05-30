@@ -1,0 +1,5 @@
+*.exe 
+*.msi 
+.project 
+.metadata 
+windows_amd64 
