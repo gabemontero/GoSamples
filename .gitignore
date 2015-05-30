@@ -1,3 +1,4 @@
 *.exe 
+golang/example/*/*.exe
 *.msi 
 windows_amd64 
